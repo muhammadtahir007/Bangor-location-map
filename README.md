@@ -1,0 +1,2 @@
+# Bangor-location-map
+Map
